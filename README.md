@@ -11,9 +11,9 @@ The next step is to either scrape live market data or history, for a certain tim
 
 If you decide to scrape, then make sure to activate the Scraper Bot in your broker's software, else activate the Trader Bot to begin actual trading.
 
-If your previous step was to scrape, then make sure to run the training script to create your new model and save to your desired file
+If your previous step was to scrape, then make sure to run the training script to create your new model and save it to your desired file
 
-The Trading Agent can be given Stop Losses or Take Profparametersers and others like margins, candles to analyze, etc.
+The Trading Agent can be given Stop Losses or Take Profit parameters and others like margins, candles to analyze, etc.
 
 The Most Consistent Result was from trading EUR/USD (approached about 60% profit with the right parameters [start:$100, end:$158-$160])
 BTC/USD had high profits at times but was unstable during certain times for live tests
